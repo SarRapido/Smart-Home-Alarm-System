@@ -8,7 +8,7 @@ import signal
 
 
 # MQTT broker
-MQTT_BROKER_ADDR = "" # To be set in main function
+MQTT_BROKER_ADDR = "192.168.0.139" # To be set in main function
 MQTT_BROKER_PORT = 1883
 MQTT_BROKER_CLIENT_ID = "bridgeawsiot"
 

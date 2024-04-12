@@ -51,7 +51,7 @@ static msg_t _main_msg_queue[MAIN_QUEUE_SIZE];
  */    
 
 #define DEFAULT_MQTT_PORT               1883
-#define BROKER_IP_ADDRESS               "INSERT YOUR IP ADRRESS"
+#define BROKER_IP_ADDRESS               "192.168.0.139"
 
 /**
  * @brief Keepalive timeout in seconds

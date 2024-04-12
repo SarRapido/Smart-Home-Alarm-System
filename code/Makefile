@@ -15,8 +15,8 @@ DEVELHELP ?= 1
 # Change this to 0 show compiler invocation lines by default:
 QUIET ?= 1
 
-WIFI_SSID ?= "INSERT YOUR WIFI SSID"
-WIFI_PASS ?= "INSERT YOUR WIFI PASSWORD"
+WIFI_SSID ?= "telenet-9722335"
+WIFI_PASS ?= "N53srxsmcprt"
 
 # Optionally include remoteDNS support. This includes resolution of names at an
 # upstream DNS server and the handling of RDNSS options in Router Advertisements
